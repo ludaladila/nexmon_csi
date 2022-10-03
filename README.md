@@ -26,6 +26,8 @@ If you're using Nexmon_CSI, please let me know via email (aravind.reddy@iiitb.or
 
 #### Raspberry Pi
 
+Checkout https://github.com/nexmonster/nexmon_csi_bin for pre-compiled nexmon_csi binaries.
+
 Pi Version | Kernel Version | Link | Notes
 ---|---|---|---
 Pi 3B+ and 4 | 5.10.92 | https://github.com/nexmonster/nexmon_csi/tree/pi-5.10.92 | This is the **recommended** version with RSSI and FC.
